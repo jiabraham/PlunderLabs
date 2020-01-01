@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<title>Plunder Labs</title>
+
+<script>
+function myprompt() {
+  var person = prompt("Please enter your name","Fred");
+  if (person != "")
+  {
+    document.getElementById("test").innerHTML = "Hello " + person + "! How are you today?";
+  }
+}
+</script>
+
+</head>
+
+<body>
+
+<p> Prompt box. </p>
+
+<button onclick="myPrompt()">Click me</button>
+
+<p id="test"></p>
+
+</body>
+</html>
