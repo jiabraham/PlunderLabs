@@ -1,18 +1,26 @@
 body {
-  background-color:rgb(40,40,40);
+  background-image:url('blue-purple-sky.jpg');
+  /*background-image:url('cityskyline.jpg'); */
+  background-size: 100% 100%;
 }
 h1 {
   color:white;
-  font-family: Oswald, inherit, sans-serif;
+  font-family: Oswald, medium;
   font-size: 25px;
-  padding: 16px 12px;
+  padding: 10px 6px;
   text-align: left;
 }
 
 h2 {
   color:white;
-  font-family: Oswald, inherit, sans-serif;
-  font-size: 80px;
-  padding: 0px 0px 20px;
+  font-family: Oswald;
+  font-size: 75px;
+  line-height:70px;
+  text-align: center;
+}
+h3 {
+  color:white;
+  font-family: Oswald;
+  font-size: 36px;
   text-align: center;
 }
