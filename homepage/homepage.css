@@ -3,13 +3,7 @@ body {
   /*background-image:url('cityskyline.jpg'); */
   background-size: 100% 100%;
 }
-h1 {
-  color:white;
-  font-family: Oswald, medium;
-  font-size: 25px;
-  padding: 10px 6px;
-  text-align: left;
-}
+
 
 h2 {
   color:white;
