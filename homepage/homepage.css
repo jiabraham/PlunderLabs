@@ -1,3 +1,18 @@
 body {
-  background-color:grey;
+  background-color:rgb(40,40,40);
+}
+h1 {
+  color:white;
+  font-family: Oswald, inherit, sans-serif;
+  font-size: 25px;
+  padding: 16px 12px;
+  text-align: left;
+}
+
+h2 {
+  color:white;
+  font-family: Oswald, inherit, sans-serif;
+  font-size: 80px;
+  padding: 0px 0px 20px;
+  text-align: center;
 }
