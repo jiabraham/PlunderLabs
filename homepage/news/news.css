@@ -1,15 +1,24 @@
+body{
+  background-color: grey;
+}
+
 .navButton {
-  text-decoration: none;
-  color: white;
   float: right;
   padding: 0px 10px;
+}
+
+.navButton a{
+  text-decoration: none;
+  color: white;
 }
 
 /* Featured Blog */
 
 #featured {
-	width:100%;
-	margin-top:100px;
+  margin: auto;
+  width:95%;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
 	position:relative;
 	}
 
