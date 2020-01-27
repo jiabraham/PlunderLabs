@@ -1,41 +1,10 @@
 body {
-  background-image:url('blue-purple-sky.jpg');
-  /*background-image:url('cityskyline.jpg'); */
-  background-size: 100% 100%;
-}
-div {
-  height: 18px;
-  width: 70%;
-  display: inline-block;
-}
-h1 {
-  color:white;
-  font-family: Oswald;
-  font-size: 25px;
-  text-align: left;
-}
+  background-image:url("https://previews.123rf.com/images/elen1/elen11702/elen1170200013/70742198-circuit-board-electronic-computer-hardware-technology-motherboard-digital-chip-tech-science-backgrou.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center top;
 
-h2 {
-  color:white;
-  font-family: Oswald;
-  font-size: 75px;
-  line-height:70px;
-  text-align: center;
-}
-
-h3 {
-  color:white;
-  font-family: Oswald;
-  font-size: 36px;
-  line-height: 32px;
-  text-align: center;
-}
-
-h4 {
-  color:white;
-  float:right;
-
-  font-size: 16px;
-  display:inline-block;
-  margin-right:10px;
+  background-color: rgba(238, 238, 238, 0.3);
+	background-blend-mode: color;
+	font-family: 'Open Sans', sans-serif;
 }
